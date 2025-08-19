@@ -1,33 +1,30 @@
-### 🇧🇷 🔥🚀 **DTUNNEL 4.5.0 – ATUALIZAÇÃO DISPONÍVEL**
+### 🇧🇷 🔥🚀 **DTUNNEL 4.5.1 – ATUALIZAÇÃO DISPONÍVEL**
 
 #### Melhorias e Novas Funcionalidades:
 
-* **Adicionado protocolo Hysteria**
-* **Melhor estabilidade de conexão no HyperOS (Xiaomi)**
-* **Melhorias no modo de conexão SlowDNS**
-* **Melhorias internas:**
-  Ajustes e otimizações internas para melhorar a performance, reduzir falhas e tornar o app ainda mais eficiente e estável.
+* **Verificação automática de atualização** – O app agora verifica automaticamente se há uma nova versão disponível e notifica o usuário quando houver, exibindo a versão atual e a nova, com um botão direto para download.
+* **SlowDNS usando DNS do sistema** quando o DNS configurado no painel for **0.0.0.0**
+* **Correções no protocolo Hysteria**
+* **Melhorias internas** – ajustes e otimizações para maior performance, estabilidade e redução de falhas.
 
 ---
 
-### 🇺🇸 🔥🚀 **DTUNNEL 4.5.0 – UPDATE AVAILABLE**
+### 🇺🇸 🔥🚀 **DTUNNEL 4.5.1 – UPDATE AVAILABLE**
 
 #### Improvements and New Features:
 
-* **Added Hysteria protocol**
-* **Improved connection stability on HyperOS (Xiaomi)**
-* **Improvements to SlowDNS connection mode**
-* **Internal improvements:**
-  Internal tweaks and optimizations to increase performance, reduce failures, and make the app even more efficient and stable.
+* **Automatic update check** – The app now automatically checks for new versions and notifies the user when one is available, showing both the current and the new version with a direct download button.
+* **SlowDNS now uses system DNS** when the DNS set in the panel is **0.0.0.0**
+* **Bug fixes for Hysteria protocol**
+* **Internal improvements** – tweaks and optimizations for better performance, stability and reduced failures.
 
 ---
 
-### 🇪🇸 🔥🚀 **DTUNNEL 4.5.0 – ACTUALIZACIÓN DISPONIBLE**
+### 🇪🇸 🔥🚀 **DTUNNEL 4.5.1 – ACTUALIZACIÓN DISPONIBLE**
 
 #### Mejoras y Nuevas Funcionalidades:
 
-* **Añadido protocolo Hysteria**
-* **Mejor estabilidad de conexión en HyperOS (Xiaomi)**
-* **Mejoras en el modo de conexión SlowDNS**
-* **Mejoras internas:**
-  Ajustes y optimizaciones internas para aumentar el rendimiento, reducir fallos y hacer que la app sea aún más eficiente y estable.
+* **Comprobación automática de actualizaciones** – La app ahora comprueba automáticamente si hay una nueva versión disponible y notifica al usuario, mostrando la versión actual y la nueva, con un botón directo para descargar.
+* **SlowDNS ahora utiliza el DNS del sistema** cuando el DNS configurado en el panel es **0.0.0.0**
+* **Correcciones en el protocolo Hysteria**
+* **Mejoras internas** – ajustes y optimizaciones internas para mejorar el rendimiento, la estabilidad y reducir fallos.
