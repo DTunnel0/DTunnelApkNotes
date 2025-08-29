@@ -1,30 +1,45 @@
-### 🇧🇷 🔥🚀 **DTUNNEL 4.5.1 – ATUALIZAÇÃO DISPONÍVEL**
+### 🇧🇷 🔥🚀 **DTUNNEL 4.5.4 – ATUALIZAÇÃO DISPONÍVEL**
 
 #### Melhorias e Novas Funcionalidades:
 
-* **Verificação automática de atualização** – O app agora verifica automaticamente se há uma nova versão disponível e notifica o usuário quando houver, exibindo a versão atual e a nova, com um botão direto para download.
-* **SlowDNS usando DNS do sistema** quando o DNS configurado no painel for **0.0.0.0**
-* **Correções no protocolo Hysteria**
-* **Melhorias internas** – ajustes e otimizações para maior performance, estabilidade e redução de falhas.
+* **Removida detecção de root, ADB e bootloader desbloqueado**
+* **Melhorias no Limiter e CheckUser**
+
+  * Agora ambos fazem seu trabalho em uma única chamada para o servidor
+  * No Limiter foi removida a notificação de *“Verificando usuário”*
+  * Agora é exibida uma notificação com as informações do usuário quando a checagem ocorre em segundo plano
+* **Push notifications totalmente refeitas**
+* **Novo ícone de notificação**
+* **Melhorias internas** – ajustes e otimizações para maior performance, estabilidade e redução de falhas
 
 ---
 
-### 🇺🇸 🔥🚀 **DTUNNEL 4.5.1 – UPDATE AVAILABLE**
+### 🇺🇸 🔥🚀 **DTUNNEL 4.5.4 – UPDATE AVAILABLE**
 
 #### Improvements and New Features:
 
-* **Automatic update check** – The app now automatically checks for new versions and notifies the user when one is available, showing both the current and the new version with a direct download button.
-* **SlowDNS now uses system DNS** when the DNS set in the panel is **0.0.0.0**
-* **Bug fixes for Hysteria protocol**
-* **Internal improvements** – tweaks and optimizations for better performance, stability and reduced failures.
+* **Removed detection of root, ADB and unlocked bootloader**
+* **Limiter and CheckUser improvements**
+
+  * Now both perform their tasks in a single server call
+  * The *“Checking user”* notification was removed from Limiter
+  * A notification is now shown with user info when the check runs in the background
+* **Push notifications completely redone**
+* **New notification icon**
+* **Internal improvements** – tweaks and optimizations for better performance, stability and fewer failures
 
 ---
 
-### 🇪🇸 🔥🚀 **DTUNNEL 4.5.1 – ACTUALIZACIÓN DISPONIBLE**
+### 🇪🇸 🔥🚀 **DTUNNEL 4.5.4 – ACTUALIZACIÓN DISPONIBLE**
 
 #### Mejoras y Nuevas Funcionalidades:
 
-* **Comprobación automática de actualizaciones** – La app ahora comprueba automáticamente si hay una nueva versión disponible y notifica al usuario, mostrando la versión actual y la nueva, con un botón directo para descargar.
-* **SlowDNS ahora utiliza el DNS del sistema** cuando el DNS configurado en el panel es **0.0.0.0**
-* **Correcciones en el protocolo Hysteria**
-* **Mejoras internas** – ajustes y optimizaciones internas para mejorar el rendimiento, la estabilidad y reducir fallos.
+* **Eliminada la detección de root, ADB y bootloader desbloqueado**
+* **Mejoras en Limiter y CheckUser**
+
+  * Ahora ambos realizan su trabajo en una única llamada al servidor
+  * En Limiter se eliminó la notificación de *“Verificando usuario”*
+  * Ahora se muestra una notificación con la información del usuario cuando la comprobación ocurre en segundo plano
+* **Notificaciones push completamente renovadas**
+* **Nuevo ícono de notificación**
+* **Mejoras internas** – ajustes y optimizaciones para mayor rendimiento, estabilidad y menos fallos
